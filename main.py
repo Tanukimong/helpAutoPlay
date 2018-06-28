@@ -19,7 +19,7 @@ YOUR_PORTAL_PW = 'khs0202713'
 LECTURE_ORDER = 5
 
 # Chrome Driver 사이트에서 받은 ChromeDriver.exe 파일의 경로를 지정해주시면 됩니다.
-CHROME_DRIVER_PATH = '/Users/Tanukimong/Downloads/chromedriver'
+CHROME_DRIVER_PATH = '/Users/Tanukimong/Python/ChromeDriver/chromedriver'
 
 # 페이지 간의 이동 대기시간을 설정합니다. 인터넷 속도가 느리거나 지속적으로 오류가 발생한다면 이 값을 늘려보세요(3-5 권장).
 SLEEP_TIME = 3
